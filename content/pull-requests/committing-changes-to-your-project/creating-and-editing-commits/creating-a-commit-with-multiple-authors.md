@@ -83,7 +83,8 @@ The new commit and message will appear on {% data variables.product.product_loca
 
 ## Further reading
 {% ifversion ghes or ghae %}
-- "[Viewing contributions on your profile](/articles/viewing-contributions-on-your-profile)"
+- "[Viewin
+g contributions on your profile](/articles/viewing-contributions-on-your-profile)"
 - "[Why are my contributions not showing up on my profile?](/articles/why-are-my-contributions-not-showing-up-on-my-profile)"{% endif %}
 - "[Viewing a project's contributors](/articles/viewing-a-projects-contributors)"
 - "[Changing a commit message](/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)"
